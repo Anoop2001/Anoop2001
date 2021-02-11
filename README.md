@@ -1,7 +1,7 @@
   #                                                                           Hi👋 I'm Anoop
 
 
-## About me                                   How To Reach ME: ![](https://github.com/Anoop2001)
+##                     About me                                   
 
 ###### 🔭 *I’m currently working on Python DATA SCIENCE PROJECT...*
 ###### 🌱 I’m currently learning python and java...
